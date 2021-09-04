@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Web Developement & ML Projects
 - 📫 How to reach me? Mail me on mbb7224@gmail.com or Whtsapp @ 7218396581
-- ⚡ **[My Portfolio](github.com/ManishBB)**
+- ⚡ **[My Portfolio](https://manishbhamare.tech/)**
 
 ## 📈 Stats
 <p align="center">
