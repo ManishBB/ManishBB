@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManishBB 
 - 👀 I’m interested in Web Developement , Android & ML
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on Web Developement & ML Projects
+- 🌱 I’m currently working on MERN Stack projects
+- 💞️ I’m looking to collaborate on Web Developement & Android 
 - 📫 How to reach me? Mail me on mbb7224@gmail.com or Whtsapp @ 7218396581
 - ⚡ **[My Portfolio](https://manishbhamare.tech/)**
 
