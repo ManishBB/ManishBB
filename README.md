@@ -1,9 +1,13 @@
+<h1 align="center">Hi 👋, I'm Manish Bhamare</h1>
+<h3 align="center">Full Stack Web Developer from India</h3>
+
 - 👋 Hi, I’m @ManishBB 
 - 👀 I’m interested in Web Developement , Android & DevOps
 - 🌱 I’m currently working on Web Development with MERN Stack projects
 - 💞️ I’m looking to collaborate on Web Developement
 - 📫 How to reach me? Mail me on mbb7224@gmail.com or Whatsapp @ 7218396581
 - ⚡ **[My Portfolio](https://manishbhamare.tech/)**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishBB&label=Profile%20views&color=0e75b6&style=flat" alt="ManishBB" /> </p>
 
 ## 📈 Stats
 <p align="center">
