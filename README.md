@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on Web Development with MERN Stack projects
 - 💞️ I’m looking to collaborate on Web Developement
 - 📫 How to reach me? Mail me on mbb7224@gmail.com or Whatsapp @ 7218396581
-- ⚡ **[My Portfolio](https://manishbhamare.tech/)**
+- ⚡ **[My Portfolio](https://manishbhamare.live/)**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishBB&label=Profile%20views&color=0e75b6&style=flat" alt="ManishBB" /> </p>
 
 ## 📈 Stats
