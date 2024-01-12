@@ -13,15 +13,15 @@
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 
-- 👨‍💻 All of my projects are available at [http://manishbhamare.live](http://manishbhamare.live)
+- 👨‍💻 All of my projects are available at [My Portfolio](http://manishbhamare.live)
 
-- 📝 I regularly write articles on [https://manishbhamare.hashnode.dev/](https://manishbhamare.hashnode.dev/)
+- 📝 I regularly write articles on [my Hashnode blog](https://manishbhamare.hashnode.dev/)
 
 - 💬 Ask me about **React, React Native, Node, MongoDB, AWS, Docker**
 
 - 📫 How to reach me **mbb7224@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12dCo7ZzSZ_iPxfHlpcmaqLcf6yuTcSAv/view?usp=sharing](https://drive.google.com/file/d/12dCo7ZzSZ_iPxfHlpcmaqLcf6yuTcSAv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12dCo7ZzSZ_iPxfHlpcmaqLcf6yuTcSAv/view?usp=sharing)
 
 - ⚡ Fun fact **I perform standup in form of storytelling & poetry**
 
