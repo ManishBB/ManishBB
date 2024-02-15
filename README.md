@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](http://manishbhamare.live)
+- 👨‍💻 All of my projects are available at [My Portfolio](http://manishbb.vercel.app)
 
 - 📝 I regularly write articles on [my Hashnode blog](https://manishbhamare.hashnode.dev/)
 
